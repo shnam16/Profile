@@ -60,7 +60,7 @@ Seneca College, Computer Programming and Analysis	            May 2018 - Present
 --RELEVANT COURSE WORKS   
 C Programming Language Project
 
-•	Contact Management System                           June 2018 – September 2018
+•	Contact Management System                 -----          June 2018 – September 2018
 
 ◎	Stored, called, updated, deleted, searched, and sorted contacts’ information using pointers
 
@@ -68,7 +68,7 @@ C Programming Language Project
 
 C++ Programming Language Project
 
-•	Aid Management Application                        October 2018 – December 2018
+•	Aid Management Application              -----          October 2018 – December 2018
 
 ◎	Developed to manage the list of products that need to be shipped to the disaster area
 
@@ -78,7 +78,7 @@ C++ Programming Language Project
 
 Database Project
 
-•	Normalization                                    October 2018 – December 2018
+•	Normalization                       -----             October 2018 – December 2018
 
 ◎	Normalized several user views and modelled Entity Relationship Diagram with Microsoft Visio
 
@@ -87,7 +87,7 @@ Database Project
 ◎	GitHub repository: https://github.com/shnam16/DBS201
 
 --VOLUNTEER EXPERIENCES   
-Pride Toronto, Toronto, ON                                            June 2018
+Pride Toronto, Toronto, ON                 -----                           June 2018
 
 Donation Volunteer
 
