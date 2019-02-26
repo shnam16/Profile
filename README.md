@@ -61,6 +61,7 @@ Seneca College, Computer Programming and Analysis	            May 2018 - Present
 C Programming Language Project
 
 •	Contact Management System                           June 2018 – September 2018
+
 ◎	Stored, called, updated, deleted, searched, and sorted contacts’ information using pointers
 
 ◎	GitHub repository: https://github.com/shnam16/IPC144
@@ -68,6 +69,7 @@ C Programming Language Project
 C++ Programming Language Project
 
 •	Aid Management Application                        October 2018 – December 2018
+
 ◎	Developed to manage the list of products that need to be shipped to the disaster area
 
 ◎	Created several classes and an interface that are encapsulated
