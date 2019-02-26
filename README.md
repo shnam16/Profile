@@ -16,6 +16,8 @@ shnam16@gmail.com | 647.335.5625
 •	Familiar with making system and business use case diagrams as well as documenting those specifications.
 
 
+
+
 --EDUCATION                                                        
 Seneca College, Computer Programming and Analysis	            May 2018 - Present
 
@@ -24,6 +26,8 @@ Seneca College, Computer Programming and Analysis	            May 2018 - Present
 •	GPA 3.9/4.0
 
 •	Graduation scheduled in May 2020
+
+
 
 --RELEVANT SKILLS 
 
@@ -57,6 +61,8 @@ Seneca College, Computer Programming and Analysis	            May 2018 - Present
 
 *****System: Linux, Mac OS, Windows
 
+
+
 --RELEVANT COURSE WORKS   
 C Programming Language Project
 
@@ -86,12 +92,16 @@ Database Project
 
 ◎	GitHub repository: https://github.com/shnam16/DBS201
 
+
+
 --VOLUNTEER EXPERIENCES   
 Pride Toronto, Toronto, ON                 -----                           June 2018
 
 Donation Volunteer
 
 •	Volunteered in a donation booth to help people who visited the festival
+
+
 
 --INTERESTS
 Competitive Soccer, Coding, Tech-devices.
