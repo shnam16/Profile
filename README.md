@@ -26,7 +26,6 @@ Seneca College, Computer Programming and Analysis	            May 2018 - Present
 •	Graduation scheduled in May 2020
 
 --RELEVANT SKILLS 
-
 C Programming Language
 
 •	Practiced TCP/IP server-client programming, using pointer and structure, and understood pass-by-address and pass-by-value
@@ -58,7 +57,6 @@ Software: IDE & Tools, Visual Studio 2017, Visual Studio Code. Terminal, cmd
 System: Linux, Mac OS, Windows
 
 --RELEVANT COURSE WORKS   
-
 C Programming Language Project
 
 •	Contact Management System                           June 2018 – September 2018
@@ -86,7 +84,6 @@ Database Project
 ◎	GitHub repository: https://github.com/shnam16/DBS201
 
 --VOLUNTEER EXPERIENCES   
-
 Pride Toronto, Toronto, ON                                            June 2018
 
 Donation Volunteer
@@ -94,5 +91,4 @@ Donation Volunteer
 •	Volunteered in a donation booth to help people who visited the festival
 
 --INTERESTS
-
 Competitive Soccer, Coding, Tech-devices.
