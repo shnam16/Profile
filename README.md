@@ -6,7 +6,9 @@ shnam16@gmail.com | 647.335.5625
 
 --SUMMARY                                                      
 •	Highly motivated, and skilled in web application development seeking a co-op developer position for experience and growth
+
 •	Skilled in object-oriented programming in C++
+
 •	Comfortable utilizing HTML5, CSS3, JavaScript, and Node.js when implementing web services and web apps.
 •	Familiar with making system and business use case diagrams as well as documenting those specifications.
 
