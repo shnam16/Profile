@@ -26,13 +26,13 @@ Seneca College, Computer Programming and Analysis	            May 2018 - Present
 •	Graduation scheduled in May 2020
 
 --RELEVANT SKILLS 
-C Programming Language
+******C Programming Language
 
 •	Practiced TCP/IP server-client programming, using pointer and structure, and understood pass-by-address and pass-by-value
 
 •	An array was used accordingly to create efficient programs with no memory leak
 
-C++ Programming Language
+*****C++ Programming Language
 
 •	Practiced with entity/control/UI classes with practice of dynamically allocated memory
 
@@ -40,11 +40,11 @@ C++ Programming Language
 
     ◎	Abstract/concrete classes were used for the complete encapsulation and efficiency
     
-JavaScript, HTML/CSS
+*****JavaScript, HTML/CSS
 
 •	Web application (Server-client programming) was practiced based on JavaScript, HTML, and CSS
 
-SQL, Oracle, DB2
+*****SQL, Oracle, DB2
 
 •	Database managed through building relation data/query models.
 
@@ -52,9 +52,9 @@ SQL, Oracle, DB2
 
 •	Practiced IBM system iSeries Navigator
 
-Software: IDE & Tools, Visual Studio 2017, Visual Studio Code. Terminal, cmd
+*****Software: IDE & Tools, Visual Studio 2017, Visual Studio Code. Terminal, cmd
 
-System: Linux, Mac OS, Windows
+*****System: Linux, Mac OS, Windows
 
 --RELEVANT COURSE WORKS   
 C Programming Language Project
