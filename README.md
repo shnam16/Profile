@@ -6,7 +6,7 @@ shnam16@gmail.com | 647.335.5625
 
 8 Sheffer Terrace, North York, ON M3J0A7
 
---SUMMARY                                                      
+--SUMMARY------------------------------------------------------------------------------------------------------------------                                                      
 •	Highly motivated, and skilled in web application development seeking a co-op developer position for experience and growth
 
 •	Skilled in object-oriented programming in C++
@@ -15,10 +15,10 @@ shnam16@gmail.com | 647.335.5625
 
 •	Familiar with making system and business use case diagrams as well as documenting those specifications.
 
+--------------------------------------------------------------------------------------------------------------------------
 
 
-
---EDUCATION                                                        
+--EDUCATION---------------------------------------------------------------------------------------------------------------                                                        
 Seneca College, Computer Programming and Analysis	            May 2018 - Present
 
 •	President's Honour List in Fall 2018
@@ -27,9 +27,9 @@ Seneca College, Computer Programming and Analysis	            May 2018 - Present
 
 •	Graduation scheduled in May 2020
 
+--------------------------------------------------------------------------------------------------------------------------
 
-
---RELEVANT SKILLS 
+--RELEVANT SKILLS--------------------------------------------------------------------------------------------------------- 
 
 ******C Programming Language
 
@@ -61,9 +61,9 @@ Seneca College, Computer Programming and Analysis	            May 2018 - Present
 
 *****System: Linux, Mac OS, Windows
 
+--------------------------------------------------------------------------------------------------------------------------
 
-
---RELEVANT COURSE WORKS   
+--RELEVANT COURSE WORKS---------------------------------------------------------------------------------------------------   
 C Programming Language Project
 
 •	Contact Management System                 -----          June 2018 – September 2018
@@ -92,16 +92,18 @@ Database Project
 
 ◎	GitHub repository: https://github.com/shnam16/DBS201
 
+--------------------------------------------------------------------------------------------------------------------------
 
-
---VOLUNTEER EXPERIENCES   
+--VOLUNTEER EXPERIENCES---------------------------------------------------------------------------------------------------   
 Pride Toronto, Toronto, ON                 -----                           June 2018
 
 Donation Volunteer
 
 •	Volunteered in a donation booth to help people who visited the festival
 
+--------------------------------------------------------------------------------------------------------------------------
 
-
---INTERESTS
+--INTERESTS--------------------------------------------------------------------------------------------------------- -----
 Competitive Soccer, Coding, Tech-devices.
+
+--------------------------------------------------------------------------------------------------------------------------
