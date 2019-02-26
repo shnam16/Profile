@@ -1,7 +1,9 @@
 # Profile
 
 Alex (Seung Ho) Nam
+
 shnam16@gmail.com | 647.335.5625
+
 8 Sheffer Terrace, North York, ON M3J0A7
 
 --SUMMARY                                                      
@@ -10,12 +12,17 @@ shnam16@gmail.com | 647.335.5625
 •	Skilled in object-oriented programming in C++
 
 •	Comfortable utilizing HTML5, CSS3, JavaScript, and Node.js when implementing web services and web apps.
+
 •	Familiar with making system and business use case diagrams as well as documenting those specifications.
+
 
 --EDUCATION                                                        
 Seneca College, Computer Programming and Analysis	            May 2018 - Present
+
 •	President's Honour List in Fall 2018
+
 •	GPA 3.9/4.0
+
 •	Graduation scheduled in May 2020
 
 --RELEVANT SKILLS                                                                         
