@@ -26,6 +26,7 @@ Seneca College, Computer Programming and Analysis	            May 2018 - Present
 •	Graduation scheduled in May 2020
 
 --RELEVANT SKILLS 
+
 ******C Programming Language
 
 •	Practiced TCP/IP server-client programming, using pointer and structure, and understood pass-by-address and pass-by-value
