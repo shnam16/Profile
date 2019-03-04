@@ -15,7 +15,7 @@ shnam16@gmail.com | 647.335.5625
 
 •	Comfortable utilizing HTML5, CSS3, JavaScript, and Node.js when implementing web services and web apps.
 
-•	Familiar with making system and business use case diagrams as well as documenting those specifications.
+•	Familiar with making system and business use case diagrams and UML as well as documenting those specifications.
 
 --------------------------------------------------------------------------------------------------------------------------
 
